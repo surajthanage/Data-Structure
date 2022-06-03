@@ -155,7 +155,7 @@ void Doubly_LinkedList::InsertLast(int iNo)
 //
 // Function name : InsertAtPos
 // Description   : use to perfrom Add  at position NODE
-// Input	      : Integer,Integer
+// Input	 : Integer,Integer
 //
 //////////////////////////////////////////////////////////////
 
@@ -255,7 +255,7 @@ void Doubly_LinkedList::DeleteLast()
 
 ///////////////////////////////////////////////////////////////
 //
-// Function name : DeleteLast
+// Function name : DeleteAtPos
 // Description   : use to perfrom Delete Last NODE
 //
 //////////////////////////////////////////////////////////////
